@@ -1,4 +1,8 @@
+-=(ArmedF_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Nichibutsu M68000 (Armed F) FPGA Implementation
 
 FPGA compatible core of Nichibutsu M68000 (Terra Force Based) arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O). Terra Force PCB (different board revisions) donated by [**@atrac17**](https://twitter.com/_atrac17) / [**@djhardrich**](https://twitter.com/djhardrich).
